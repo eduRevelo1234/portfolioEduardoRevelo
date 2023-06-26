@@ -1,0 +1,13 @@
+:root {
+    --primary:rgb(223, 31, 45);
+    --primary-dark: rgb(177, 19, 19);
+    --secondary-dark:rgb(43, 55, 132);
+    --secondary: rgb(68, 123, 190);
+    --white:#f5f9fa;
+    --white2: #ebf3f5;
+    --gray:#e1e4e5;
+    --gray2:#c0c6c9;
+    --gray3:#4b4c4d;
+    --black:#323333;
+    --black2:#2a2b2b;
+}
